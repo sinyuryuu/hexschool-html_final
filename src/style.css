@@ -203,7 +203,7 @@ body {
 }
 
 .banner {
-  background-image: url(picture/banner.png);
+  background-image: url(https://raw.githubusercontent.com/sinyuryuu/hexschool-html_final/main/picture/banner.png);
   background-size: cover;
   /* background-size: 100% 100% ; 雖然也能滿版但會被隨解析度不同會拉伸*/
   height: 346px;
